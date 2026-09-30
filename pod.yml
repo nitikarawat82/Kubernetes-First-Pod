@@ -3,6 +3,7 @@ kind: Pod
 
 metadata:
   name: my-first-pod
+  namespace: nginx
 
 spec:
   containers:
